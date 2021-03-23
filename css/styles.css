@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+div {
+    font-family: 'Syne Mono', monospace;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 38%;
+    padding: 20px;
+    font-size: 2rem;
+    width: 21%;
+    align-items: center;
+    border: 3px solid #000;
+    border-radius: 7px;
+    box-shadow: 4px 4px #1b0303;
+}
+
+.reloj {
+    text-align: center;
+}
